@@ -1,4 +1,4 @@
-// Nod JS
+// Nod JS DAta Types.
 /* Data Types : 7 types of data types are available in JS
 undefined, null, string, boolean, number, symbol, object
 */
